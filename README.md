@@ -9,9 +9,6 @@
 - 📫 How to reach me/联系我：hero@shiwanyu.com ...
 - ⚡ 如何快乐是我一直思考的
 
-[![Lorin-github](https://github-readme-stats.vercel.app/api?username=birght)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Lorin-github](https://github-profile-trophy.vercel.app/?username=birght)](https://github.com/ryo-ma/github-profile-trophy)
 
 <span > 
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
